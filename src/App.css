@@ -1,0 +1,9 @@
+.app{
+
+}
+.b-bodyCalendar{
+  margin:5% auto 0 auto;
+  border:10px solid rgb(72, 181, 163) ;
+  border-radius: 2%;
+  width:91%;
+}
